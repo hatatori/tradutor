@@ -1,4 +1,3 @@
-from googletrans import Translator
 import time
 import pyperclip
 import keyboard
