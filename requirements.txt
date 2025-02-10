@@ -1,3 +1,4 @@
 googletrans
 pyperclip
 keyboard
+google-genai
